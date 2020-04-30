@@ -192,7 +192,7 @@ static Shortcut shortcuts[] = {
 	{ TERMMOD,              XK_K,           zoom,           {.f = +1} },
 	{ TERMMOD,              XK_J,           zoom,           {.f = -1} },
 	{ TERMMOD,              XK_U,           zoom,           {.f = +2} },
-	{ TERMKEY,              XK_D,           zoom,           {.f = -2} },
+	{ TERMMOD,              XK_D,           zoom,           {.f = -2} },
 };
 
 /*
